@@ -1,4 +1,4 @@
 # mancrate
 minecraft but bad
 
-zip: [python thing.zip](https://github.com/user-attachments/files/16227977/python.thing.zip)
+zip: [mancrate.zip](https://github.com/user-attachments/files/16358053/mancrate.zip)
